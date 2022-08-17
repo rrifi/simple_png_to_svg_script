@@ -8,6 +8,6 @@ This script allows me to draw anything on paint, then with it's SVG version, we 
 
 SVG file uploaded on ThinkerCAD : 
 
-![](thnikercad.JPG)
+![](thinkercad.JPG)
 
 Greetz potrace.sourceforge.net and imagemagick.org
